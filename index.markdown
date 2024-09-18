@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+包含了旧博客中一些比较有意思的文章, 未全部迁移, 旧博客链接: [简书](https://www.jianshu.com/u/f5cf590a54cf)
