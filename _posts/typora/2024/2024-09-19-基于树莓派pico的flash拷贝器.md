@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "基于树莓派pico的flash拷贝器"
+title:  "基于树莓派pico的flash拷贝器[rt-thread]"
 date:   2024-09-10 00:00:00 +0800
 ---
 
